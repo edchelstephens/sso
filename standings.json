@@ -1,0 +1,46 @@
+[{
+    "team_id": 1,
+    "team_name": "Chelsea",
+    "played": 28,
+    "won": 17,
+    "lost": 8,
+    "drawn": 3,
+    "points": 59,
+    "for": 57,
+    "against": 19,
+    "goal_difference": 38
+}, {
+    "team_id": 1,
+    "team_name": "Manchester City",
+    "played": 29,
+    "won": 22,
+    "lost": 3,
+    "drawn": 4,
+    "points": 70,
+    "for": 50,
+    "against": 18,
+    "goal_difference": 50
+}, {
+    "team_id": 4,
+    "team_name": "Arsenal",
+    "played": 28,
+    "won": 17,
+    
+ "lost": 8,
+    "drawn": 3,
+    "points": 54,
+    "for": 44,
+    "against": 31,
+    "goal_difference": 13
+}, {
+    "team_id": 1,
+    "team_name": "Liverpool",
+    "played": 29,
+    "won": 21,
+    "lost": 6,
+    "drawn": 2,
+    "points": 69,
+    "for": 55,
+    "against": 20,
+    "goal_difference": 50
+}]
