@@ -131,3 +131,7 @@ dmypy.json
 
 # Hide env
 .env
+
+
+# Ignore Vs code
+.vscode
