@@ -6,6 +6,10 @@ class Team(models.Model):
 
     name = models.CharField(max_length=50)
 
+    def __repr__(self) -> str:
+        """Team object string representation."""
+        return "Team(id={}, name={})".format(self.id, self.name)
+
     class Meta:
         app_label = "teams"
         db_table = "teams"
